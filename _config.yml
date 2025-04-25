@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://drive.google.com/file/d/16ixhrcw2kCd8BmG51b0q30TZYUuiws3a/view"
+  avatar           : "https://drive.google.com/file/d/16ixhrcw2kCd8BmG51b0q30TZYUuiws3a/view.png"
   name             : "Anthera Al Firdaus Prissandi"
   pronouns         : # example: "she/her"  
   bio              : "Biology freshgraduate with intention on animal physiology"
